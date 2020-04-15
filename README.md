@@ -1,2 +1,2 @@
-# BA1
+# BA
 Bachelor
